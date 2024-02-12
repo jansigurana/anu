@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/speedometer-img.png');
+  background-size: cover;
+  min-height: 100vh;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #ffffff;
+  text-align: center;
+}
+.paragraph {
+  font-family: 'Roboto';
+  font-size: 10px;
+  color: #cbd5e1;
+  text-align: center;
+}
+.button {
+  color: #ffffff;
+  background-color: #0b69ff;
+  font-family: 'Roboto';
+  font-size: 8px;
+  border-radius: 4px;
+  padding: 5px;
+  margin: 20px;
+  cursor: pointer;
+  outline: none;
+}
+.button1 {
+  color: #94a3b8;
+  font-family: 'Roboto';
+  font-size: 8px;
+  border-radius: 4px;
+  padding: 5px;
+  margin: 20px;
+  cursor: pointer;
+  outline: none;
+}
